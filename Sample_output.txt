@@ -1,0 +1,5 @@
+Converting the text to morse:
+Enter the string:   "this is subbu"
+.-..-. - .... .. ... ....... .. ... ....... ... ..- -... -... ..- .-..-.
+Converting the morse to txt:
+"this is subbu"
